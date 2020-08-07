@@ -51,3 +51,13 @@ body {
     font-size: 18px;
     padding-bottom: 15px;
 }
+
+#update > p > a {
+    text-decoration: none;
+    color: #161616;
+}
+
+#update > p > a:hover {
+    text-decoration: underline;
+    color: #00843d;
+}
